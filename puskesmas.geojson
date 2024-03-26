@@ -1,0 +1,299 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wirobrajan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.34807627116413,
+          -7.810582396377669
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kraton Yogyakarta"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36498927116332,
+          -7.806032284086413
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mergangsan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37380900000113,
+          -7.815618913668629
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mantirejon"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3616320000013,
+          -7.820569913751896
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pembantu Nitikan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3834292711615,
+          -7.825376913835115
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Kotagede I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40052400000098,
+          -7.822212171791662
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Tegalrejo"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36707000000195,
+          -7.7709041734483435
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Jetis"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36243527116437,
+          -7.783205913120284
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Gondokusuman 2"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37109300000054,
+          -7.7786209130409105
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Danurejan II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.37776545767275,
+          -7.788491913208674
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok III"
+      },
+      "geometry": {
+        "coordinates": [
+          110.38941981349075,
+          -7.778314913037988
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Depok II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.40825100000148,
+          -7.756600912669413
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Ngaglik I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.4027502711645,
+          -7.722141543631622
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.36292999999762,
+          -7.754532174080921
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Mlati II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.32824499999958,
+          -7.732694174815634
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Seyegan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3011962711642,
+          -7.7192789120433645
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Imogiri"
+      },
+      "geometry": {
+        "coordinates": [
+          110.3804493035899,
+          -7.919897831300162
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pengasih I"
+      },
+      "geometry": {
+        "coordinates": [
+          110.16405800000058,
+          -7.831574171473505
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Wonosari II"
+      },
+      "geometry": {
+        "coordinates": [
+          110.60790353898057,
+          -7.964098319990072
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Pembantu Nglegi"
+      },
+      "geometry": {
+        "coordinates": [
+          110.56059595945527,
+          -7.872913062478403
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puskesmas Srandakan"
+      },
+      "geometry": {
+        "coordinates": [
+          110.25062018651062,
+          -7.938306915769161
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    }
+  ]
+}
